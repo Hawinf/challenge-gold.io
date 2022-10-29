@@ -2,7 +2,7 @@
   "name": "challenge-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hawinf.github.io/chapter-4/react-host",
+  "homepage": "https://hawinf.github.io/challenge-gold.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
