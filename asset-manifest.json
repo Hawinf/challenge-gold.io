@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/chapter-4/react-host/static/css/main.12b4908d.css",
-    "main.js": "/chapter-4/react-host/static/js/main.b447cc4d.js",
-    "static/js/787.254d0fb2.chunk.js": "/chapter-4/react-host/static/js/787.254d0fb2.chunk.js",
-    "static/media/img_car.png": "/chapter-4/react-host/static/media/img_car.ffe77cc73822a065a73a.png",
-    "static/media/img_service.png": "/chapter-4/react-host/static/media/img_service.3a3db8c1608f427874ee.png",
-    "static/media/img_photo1.png": "/chapter-4/react-host/static/media/img_photo1.1dce03066fc282eba0a1.png",
-    "static/media/slick.svg": "/chapter-4/react-host/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/chapter-4/react-host/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/chapter-4/react-host/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/chapter-4/react-host/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/chapter-4/react-host/index.html",
-    "static/media/close.svg": "/chapter-4/react-host/static/media/close.1af5be0ca84febc741ad4237d108e172.svg",
-    "static/media/left.svg": "/chapter-4/react-host/static/media/left.982a40d4f9e3cf9fdaeaf4af9da46c14.svg",
-    "static/media/right.svg": "/chapter-4/react-host/static/media/right.d45fd2f46e93f5c3aa0a7d0617d9fecf.svg",
-    "main.12b4908d.css.map": "/chapter-4/react-host/static/css/main.12b4908d.css.map",
-    "main.b447cc4d.js.map": "/chapter-4/react-host/static/js/main.b447cc4d.js.map",
-    "787.254d0fb2.chunk.js.map": "/chapter-4/react-host/static/js/787.254d0fb2.chunk.js.map"
+    "main.css": "/challenge-gold.io/static/css/main.e6947de0.css",
+    "main.js": "/challenge-gold.io/static/js/main.bad05776.js",
+    "static/js/787.254d0fb2.chunk.js": "/challenge-gold.io/static/js/787.254d0fb2.chunk.js",
+    "static/media/img_car.png": "/challenge-gold.io/static/media/img_car.ffe77cc73822a065a73a.png",
+    "static/media/img_service.png": "/challenge-gold.io/static/media/img_service.3a3db8c1608f427874ee.png",
+    "static/media/img_photo1.png": "/challenge-gold.io/static/media/img_photo1.1dce03066fc282eba0a1.png",
+    "static/media/slick.svg": "/challenge-gold.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/challenge-gold.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/challenge-gold.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/challenge-gold.io/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/challenge-gold.io/index.html",
+    "static/media/close.svg": "/challenge-gold.io/static/media/close.1af5be0ca84febc741ad4237d108e172.svg",
+    "static/media/left.svg": "/challenge-gold.io/static/media/left.982a40d4f9e3cf9fdaeaf4af9da46c14.svg",
+    "static/media/right.svg": "/challenge-gold.io/static/media/right.d45fd2f46e93f5c3aa0a7d0617d9fecf.svg",
+    "main.e6947de0.css.map": "/challenge-gold.io/static/css/main.e6947de0.css.map",
+    "main.bad05776.js.map": "/challenge-gold.io/static/js/main.bad05776.js.map",
+    "787.254d0fb2.chunk.js.map": "/challenge-gold.io/static/js/787.254d0fb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12b4908d.css",
-    "static/js/main.b447cc4d.js"
+    "static/css/main.e6947de0.css",
+    "static/js/main.bad05776.js"
   ]
 }
