@@ -1,10 +1,14 @@
 import React,{ useState } from 'react';
+import { useLocation } from 'react-router-dom';
 import './navbar.css';
 import Logo from '../images/logo.png';
 import CloseButton from '../images/close.svg';
 import Menu from '../images/fi_menu.png'
 
 const Navbar = () => {
+
+  const location = useLocation();
+  const tampil = location.pathname === '/' ? true : false
 
   const [active, setActive] = useState(false);
 
@@ -23,7 +27,12 @@ const Navbar = () => {
             <img src={Logo} alt="logo saya" />
           </a>
         </div>
-        <div className={`overlay-bg ${active ? 'menu-active' : ''}`} />
+
+
+      {
+        tampil ? (
+    <>
+      <div className={`overlay-bg ${active ? 'menu-active' : ''}`} />
         <div className={`sidebar ${active ? 'menu-active' : ''}`}>
           <div className="top-sidebar">
             <h3>BCR</h3>
@@ -50,6 +59,15 @@ const Navbar = () => {
         <div className="burger-icon" onClick={openSidebar}>
           <img src={Menu} alt="" />
         </div>
+      </>
+
+        ) : null
+      }
+
+        
+
+
+
       </div>
     </div>
   </header>

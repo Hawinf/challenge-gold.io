@@ -40,6 +40,7 @@
   }
   .hero-foto img{
     width: 100%;
+    z-index: 9999;
   }
 
   /* Breakpoint responsive hero-section */
